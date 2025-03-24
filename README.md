@@ -26,7 +26,7 @@ This repository contains modular and reusable Terraform code to deploy a high-av
 
 1. **Clone the Repository:**
    ```bash
-   git clone (https://github.com/OLAOLUWADAV/Alpha-Global-Sol-Arc-Proj.git)
+   git clone "https://github.com/OLAOLUWADAV/Alpha-Global-Sol-Arc-Proj.git"
    cd "Alpha-Global-Sol-Arc-Proj"
    terraform init
    terraform plan
