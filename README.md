@@ -28,24 +28,11 @@ This repository contains modular and reusable Terraform code to deploy a high-av
    ```bash
    git clone (https://github.com/OLAOLUWADAV/Alpha-Global-Sol-Arc-Proj.git)
    cd "Alpha-Global-Sol-Arc-Proj"
-
-
-
-
-
-terraform init
-
-
-terraform plan
-
-
-terraform apply
-
-
-ssh -i ~/.ssh/aws_ec2_terraform ubuntu@<3.250.187.135:8080>
-
-
-"jenkins.3.250.187.135.nip.io"
+   terraform init
+   terraform plan
+   terraform apply
+   ssh -i ~/.ssh/aws_ec2_terraform ubuntu@<3.250.187.135:8080>
+   "jenkins.3.250.187.135.nip.io"
 
 ---
 
